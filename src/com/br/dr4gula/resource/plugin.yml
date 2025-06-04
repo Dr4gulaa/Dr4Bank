@@ -1,0 +1,14 @@
+name: Dr4Bank
+version: 1.0
+main: com.br.dr4gula.Main
+authors: [ Dr4gula ]
+depend: [Vault]
+commands:
+  banco:
+    description: Abre o menu do Banco para o player.
+    usage: /banco
+  bancoreload:
+    description: Recarrega a configuração do banco.
+    usage: /bancoreload
+    permission: banco.reload
+    permission-message: Você não tem permissão para usar este comando!

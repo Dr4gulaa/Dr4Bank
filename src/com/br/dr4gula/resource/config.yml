@@ -1,0 +1,18 @@
+# Configuração dos botões do menu de Banco
+menu:
+  saque:
+    10: GOLD_NUGGET
+    100: GOLD_INGOT
+    1000: GOLD_BLOCK
+    10000: DIAMOND
+    100000: EMERALD
+    tudo: NETHER_STAR
+  deposito:
+    10: PAPER
+    100: PAPER
+    1000: PAPER
+    10000: DIAMOND
+    100000: EMERALD
+    tudo: NETHER_STAR
+  botoes:
+    fechar: ARROW
