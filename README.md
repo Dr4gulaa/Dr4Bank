@@ -9,7 +9,7 @@ Sistema de Banco
 
 GUI para deposito e saque de cédulas.
 
-https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/74530caf-33ef-4a6f-98a8-c023421df315
+https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/aabace9f-e3cc-4d03-9450-ceeca1aefbce
 
 
 ## 💼 Comandos
